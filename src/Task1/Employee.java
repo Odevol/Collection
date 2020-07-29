@@ -44,7 +44,7 @@ public class Employee {
     }
 
     public void printEmployee(){
-        System.out.println(this.getSurname() + " " + this.getName() + " " + this.getPatronymic() + "стаж работы " + this.getWorkAge());
+        System.out.println(this.getSurname() + " " + this.getName() + " " + this.getPatronymic() + " стаж работы " + this.getWorkAge());
     }
 
 
