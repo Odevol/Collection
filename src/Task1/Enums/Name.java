@@ -3,7 +3,7 @@ package Task1.Enums;
 import java.util.Random;
 
 public enum Name {
-    Алексей, Иван, Сергей;
+    Алексей, Иван, Сергей, Андрей, Геннадий, Илья;
 
     public static String getRundomName() {
         Name[] values = Name.values();
